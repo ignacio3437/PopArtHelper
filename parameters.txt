@@ -1,0 +1,4 @@
+------- PopArtGeo2 parameters file -------------------------------------------
+example.nex                             	  ## [0] [nexus_file]: The name of the input nexus file
+Pop_designations.csv                              ## [1] [pop_groups]: Comma delineated file with meta-data. Columns names must be: "Sample", "Pop"
+Pop_order.txt                         		 ## [2] [pop_order]: OPTIONAL Text file with list of populations in desired order. One pop per line.
