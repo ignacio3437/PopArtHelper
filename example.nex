@@ -1,6 +1,6 @@
 #NEXUS
 begin taxa;
-	dimensions ntax=102;
+	dimensions ntax=101;
 	taxlabels
 	WAMS69084[&Created=Tue Aug 16 10:01:31 AWST 2016]
 	WAMS69293[&Created=Tue Aug 16 10:01:31 AWST 2016]
