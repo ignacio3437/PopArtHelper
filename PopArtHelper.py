@@ -2,8 +2,8 @@
 import os
 import re
 
-raw_pwd = '/Users/josec/Desktop/git_repos/PopArtHelper/parameters.txt'
-# raw_pwd=raw_input("Please enter full path of parameter file: ")
+#raw_pwd = '/Users/josec/Desktop/git_repos/PopArtHelper/parameters.txt'
+raw_pwd=raw_input("Please enter full path of parameter file: ")
 clean_pwd = raw_pwd.replace('"', '').strip()
 clean_pwd = clean_pwd.replace('\\', '').strip()
 pwd = os.path.dirname(clean_pwd)
