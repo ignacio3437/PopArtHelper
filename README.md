@@ -32,3 +32,7 @@ The output will be a new .nex file with a "_PopArt" suffix.
 
 ## Testing
 GA workshope testing
+
+
+embed images
+![](images/map_Wakefield_V2.1_JoanJScaffold_to_Wakefield_v2.1_AnitraScaffold.svg)
